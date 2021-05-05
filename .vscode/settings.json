@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/home/dave/.pyenv/versions/3.7.3/bin/python",
+    "jupyter.jupyterServerType": "local",
+    "ai.azureml.defaultWorkspaceId": "/subscriptions/52061d21-01dd-4f9e-aca9-60fff4d67ee2/resourceGroups/MLOpsWorkshop/providers/Microsoft.MachineLearningServices/workspaces/mlops",
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen"
+}
